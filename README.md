@@ -46,9 +46,11 @@ If you want to use something commercially, open a discussion or get in touch!
 
 ---
 
-## “Inspirational” Wisdom
+## Inspirational Wisdom
 
 > “If it works, don’t touch it. If it doesn’t, blame the cache. If all else fails, invent a new bug and call it a feature.”
+
+> "There are no bugs, only happy little features."
 
 ---
 
