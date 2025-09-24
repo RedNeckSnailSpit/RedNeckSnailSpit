@@ -1,4 +1,3 @@
-````markdown name=README.md
 # RedNeckSnailSpit
 
 Welcome to my humble slice of GitHub!  
@@ -56,4 +55,3 @@ If you want to use something commercially, open a discussion or get in touch!
 Thanks for dropping by!  
 Feel free to open an issue, fork a repo, or just say hi.  
 Happy coding!
-````
