@@ -1,20 +1,21 @@
 # RedNeckSnailSpit
 
-Welcome to my humble slice of GitHub!  
-I'm a Full Stack Developer (mostly for fun), wrangling web tech like PHP, JS, CSS, HTML, and backend wizardry with Python and MariaDB/MySQL (MariaDB is my go-to).  
-Occasionally, I dabble in Lua (thanks, ComputerCraft!) or the Python-like language from _The Farmer Was Replaced_—because why not?
+Welcome to my humble slice of GitHub!
+I'm a Full Stack Developer (mostly for fun), wrangling web tech like PHP, JS, CSS, HTML, and backend wizardry with Python and MariaDB/MySQL (MariaDB is my go-to).
+Occasionally, I dabble in Lua (thanks, ComputerCraft!) or the Python-like language from _The Farmer Was Replaced_ — because why not?
 
 ---
 
 ## My Stack
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** PHP, Python, MariaDB/MySQL
-- **Sporadic Ventures:** Lua (ComputerCraft), game scripting
+- **Backend:** PHP, Python, MariaDB/MySQL/SQLite
+- **Sporadic Ventures:** Lua (ComputerCraft)
 
 ---
 
 ## Open Source Enthusiast
-I live for open source. No favorite projects—just a fan of anything open and collaborative!  
+I live for open source. No favorite projects — just a fan of anything FOSS.
+
 Some of my go-tos:
 - [Pterodactyl](https://github.com/pterodactyl/panel)
 - The *arr Stack (Sonarr, Radarr, Lidarr, etc.)
@@ -25,17 +26,17 @@ Some of my go-tos:
 Check out my own repositories for web stuff, fun experiments, and whatever else I feel like hacking on:
 - [kawakawa_web](https://github.com/RedNeckSnailSpit/kawakawa_web)
 - [kawakawa_services](https://github.com/RedNeckSnailSpit/kawakawa_services)
+- [poop_tracker](https://github.com/RedNeckSnailSpit/poop_tracker) 💩
 
 ---
 
 ## Licensing
+The majority of repos will be dual licensed.
 
-Everything here is licensed under **GNU GPL v3** for personal use.  
-Some repositories are dual licensed for commercial versus personal usage:
-- **Personal use:** typically free to use
-- **Commercial use:** may require negotiation on pricing
+TL;DR non-profit = GNU GPL v3 / for-profit = contact me for commercial licensing.
 
-If you want to use something commercially, open a discussion or get in touch!
+FAQ & other licensing mumbo jumbo:
+https://legal.rednecksnailspit.co.za/
 
 ---
 
