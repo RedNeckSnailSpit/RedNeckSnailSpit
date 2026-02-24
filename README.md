@@ -42,7 +42,7 @@ https://legal.rednecksnailspit.co.za/
 
 ## Connect with Me
 - Twitter: [@RNSnailSpit](https://twitter.com/RNSnailSpit)
-- Website: [rednecksnailspit.co.za](https://rednecksnailspit.co.za/) _(Coming soon™)_
+- Website: [rednecksnailspit.co.za](https://rednecksnailspit.co.za/)
 - Email: [github@rednecksnailspit.co.za](mailto:github@rednecksnailspit.co.za)
 
 ---
